@@ -51,5 +51,5 @@ cd portfolio-website
 3. Copy Paste this in a browser:
 
 ```bash
-
+https://gauravsinghhhh.github.io/Portfolio_website/
 ```
